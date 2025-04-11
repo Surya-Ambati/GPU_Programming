@@ -54,4 +54,4 @@ print("All threads completed")
 end = time.time()
 print(f"Time taken: {end - start:.2f} seconds")
 print(os.getpid()) # get the process id of the current process. It will be same for all threads.
-
+print("exammple for multithreading completed") 
